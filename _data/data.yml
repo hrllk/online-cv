@@ -3,21 +3,22 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+  #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: HwiRyungKim 
     tagline: Backand Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: resume.png
 
     # Sidebar links
     email: roovcloudy@gmail.com
     phone: +82 010-9760-4565
     timezone: Asia/Seoul
     citizenship:
-    website: github.com/hrllk
+  #website: github.com/hrllk
   #linkedin: alandoe
   #xing: alandoe
     github: hrllk
@@ -28,7 +29,7 @@ sidebar:
       #stack-overflow: # Number/Username, e.g. 123456/alandoe
       #codewars:
       #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  #pdf: http://www.africau.edu/images/default/sample.pdf
 
   #    languages:
   #      title: Languages
@@ -48,14 +49,17 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
+      최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
+
+      보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축·운영에 대한 경험을 가지고 있습니다.<br>
+      업무 중 반복되는 프로세스에 대해 자동화를 지향하며, 불필요하게 낭비되는 리소스를 막아 서비스를 개선하는 부분에 대해 항상 고민합니다.
+      이를 통해 서버 비용을 절약할 수 있었고, 피싱아이즈에서는 백오피스 개발을 통해 주 20시간의 반복되는 업무를 절약한 경험이 있습니다.<br><br>
+
+      원활한 협업을 위해 명확하고 간결한 커뮤니케이션을 지향하며, 국외의 동료들과의 팀 구성에서도 GitHub의 이슈 탭과 Spring Doc 도구를 활용하여 원활히 협업했던 경험이 있습니다.
+
 # education:
 #     title: Education
 #     info:
@@ -83,27 +87,36 @@ career-profile:
 #             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
-      - role: Backend Developer 
+      - role: BE Developer(PL)
         time: 2023.06 ~
         company: Okestro
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          - KB IQ+ 빌드 배포 자동화 프로젝트 형상관리 파트 개발
+            - Gitlab API 개발
+            - 형상 관리 API 개발 및 연계
+            - 인사 정보 기반 Gitlab 사용자 관리 기능 개발
+            - 사무분담 정보 기반 Gitlab 멤버 관리 기능 개발
+            - 산출물 저장소 API 개발
         ##- Develop SCM feature Gitlab 
 
-      - role: Phishing Eyes Backend Developer 
+      - role: BE Developer
         time: 2019.04 ~ 2023.02
         company: Infinigru
         details: |
-            - Develop Phishing Eyes Backend 
-            - Operate Phishing Eyes Infra(AWS)
-            - CI/CD (Jenkins)
-            - Interface Between Affiliate Companies
+            - 폴리스코난 및 그루택시 백엔드 및 인프라개발
+
+            - 피싱아이즈 백엔드 및 인프라개발
+                - 인프라 구축 및 운영
+                - 제휴사(금융사)간의 인터페이스 및 연동
+                - 백엔드 Batch 서비스 개발
+                - RESTful API 개발
+                - 젠킨스구축 및 운영을 통한 CI/CD 경험
+                - 병목현상 경험 및 메세징큐 운영
+                - AWS 스토리지 변경으로 비용 최적화<br>
+
+            - 삼성전자, KBank 콘솔 개발 및 유지보수 
           
 
 #          Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -158,16 +171,16 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # You can list your side projects in this
+#  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Vimtellij
-        link: "#hook"
-        tagline: "Neovim Custormize"
-      - title: KB IQ+ 빌드배포 자동화 프로젝트
-        link: "#hook"
-        tagline: "형상 관리"
+    #- title: Vimtellij
+    #    link: "#hook"
+    #    tagline: "Neovim Custormize"
+      - title: IQ+ 빌드배포 자동화 프로젝트
+      #link: "#hook"
+        tagline: "형상관리"
 
 
 oss:
@@ -211,32 +224,34 @@ oss:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Java
-        level: 70%
+#skills:
+#    title: Skills &amp; Proficiency
+#    toolset:
+#      - name: Java
+#        level: 70%
+#
+#      - name: Spring
+#        level: 70%
+#
+#      - name: Javascript 
+#        level: 70%
+#
+#      - name: jQuery
+#        level: 70%
+#
+#      - name: MariaDB
+#        level: 50%
+#
+#      - name: AWS
+#        level: 50%
+#
+#      - name: HTML & CSS
+#        level: 50%
+#
+#      - name: OSS
+#        level: 50%
 
-      - name: Spring
-        level: 70%
 
-      - name: Javascript 
-        level: 70%
-
-      - name: jQuery
-        level: 70%
-
-      - name: MariaDB
-        level: 50%
-
-      - name: AWS
-        level: 50%
-
-      - name: HTML & CSS
-        level: 50%
-
-      - name: OSS
-        level: 50%
     #      - name: Ruby on Rails
     #        level: 85%
     #
