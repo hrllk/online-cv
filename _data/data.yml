@@ -38,11 +38,11 @@ sidebar:
   #          level: little bit.. 
 
 
-    interests:
-      title: Interests
-      info:
-        - item: 🎧, 🏊🏻
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: 🎧, 🏊🏻
+    #       link:
 
       # - item: 🏊
         #    link:
@@ -54,12 +54,22 @@ career-profile:
       안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
       최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
 
-      보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축·운영에 대한 경험이 있습니다.<br>
+      보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축 및 운영에 대한 경험이 있습니다.<br>
 
-      항상 효율적인 프로세스에 대해 고민하여 인프라 비용을 절감한 경험이 있고, 
-      프로세스 자동화를 통해 주 10시간의 반복되는 업무를 자동화한 바 있습니다. <br><br>
-    
-      명확하고 간결한 커뮤니케이션을 지향하고, 국외 동료들과 협업한 경험을 가지고있습니다. 
+      항상 효율적인 프로세스에 대해 고민하고, 간결한 커뮤니케이션을 지향합니다. 
+
+# career-profile:
+#     title: About Me
+#     summary: |
+#       안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
+#       최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
+#
+#       보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축·운영에 대한 경험이 있습니다.<br>
+#
+#       항상 효율적인 프로세스에 대해 고민하여 인프라 비용을 절감한 경험이 있고, 
+#       프로세스 자동화를 통해 주 10시간의 반복되는 업무를 자동화한 바 있습니다. <br><br>
+#
+#       명확하고 간결한 커뮤니케이션을 지향하고, 국외 동료들과 협업한 경험을 가지고있습니다. 
 
 # education:
 #     title: Education
@@ -94,36 +104,48 @@ experiences:
         time: 2023.03 ~
         company: Okestro
         details: |
-          - CI/CD solution be architect 
+          - CI/CD Saas Backend Architect
 
       - role: BE Developer
         time: 2023.06 ~ 2024.02
         company: Okestro
         details: |
-          - KB IQ+ 빌드 배포 자동화 프로젝트 형상관리 파트 개발
-            - Gitlab API 개발
-            - 형상 관리 API 개발 및 연계
-            - 인사 정보 기반 Gitlab 사용자 관리 기능 개발
-            - 사무분담 정보 기반 Gitlab 멤버 관리 기능 개발
-            - 산출물 저장소 API 개발
-        ##- Develop SCM feature Gitlab 
+          - KB IQ PLUS 프로젝트 형상 관리 파트 개발
+
+      # - role: BE Developer
+      #   time: 2023.06 ~ 2024.02
+      #   company: Okestro
+      #   details: |
+      #     - KB IQ+ 빌드 배포 자동화 프로젝트 형상관리 파트 개발
+      #       - Gitlab API 개발
+      #       - 형상 관리 API 개발 및 연계
+      #       - 인사 정보 기반 Gitlab 사용자 관리 기능 개발
+      #       - 사무분담 정보 기반 Gitlab 멤버 관리 기능 개발
+      #       - 산출물 저장소 API 개발
 
       - role: BE Developer
         time: 2019.04 ~ 2023.02
         company: Infinigru
         details: |
-            - 폴리스코난 및 그루택시 백엔드 및 인프라개발
+            - 피싱아이즈 백엔드 개발 및 인프라 운영
+                - 제휴사 인터페이스
 
-            - 피싱아이즈 백엔드 및 인프라개발
-                - 인프라 구축 및 운영
-                - 제휴사(금융사)간의 인터페이스 및 연동
-                - 백엔드 Batch 서비스 개발
-                - RESTful API 개발
-                - 젠킨스구축 및 운영을 통한 CI/CD 경험
-                - 병목현상 경험 및 메세징큐 운영
-                - AWS 스토리지 변경으로 비용 최적화<br>
-
-            - 삼성전자, KBank 콘솔 개발 및 유지보수 
+      # - role: BE Developer
+      #   time: 2019.04 ~ 2023.02
+      #   company: Infinigru
+      #   details: |
+      #       - 폴리스코난 및 그루택시 백엔드 및 인프라개발
+      #
+      #       - 피싱아이즈 백엔드 및 인프라개발
+      #           - 인프라 구축 및 운영
+      #           - 제휴사(금융사)간의 인터페이스 및 연동
+      #           - 백엔드 Batch 서비스 개발
+      #           - RESTful API 개발
+      #           - 젠킨스구축 및 운영을 통한 CI/CD 경험
+      #           - 병목현상 경험 및 메세징큐 운영
+      #           - AWS 스토리지 변경으로 비용 최적화<br>
+      #
+      #       - 삼성전자, KBank 콘솔 개발 및 유지보수 
           
 
 #          Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -199,8 +221,9 @@ oss:
     contributions:
       - title: Alzar
         link: https://hrllk.github.io
-        tagline: 개인 블로그를 운영하고있습니다. <br>
-                 궁금했던 내용이나, 트러블슈팅에 관련된 내용들을 기록하고있습니다.
+        tagline: https://hrllk.github.io
+        # tagline: 개인 블로그를 운영하고있습니다. <br>
+        #          궁금했던 내용이나, 트러블슈팅에 관련된 내용들을 기록하고있습니다.
 
     #       - title: Atom
     #         link: "#"
