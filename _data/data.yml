@@ -1,4 +1,5 @@
-#
+# Mybatis(Mbg), 공통처리, Valkey, Ws
+# 인프라파트가 별도로 존재 
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -51,12 +52,15 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
-      최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
+      안녕하세요! Java및 Spring 기반의 6년차 개발자 김휘령입니다. 
+      현재는 오케스트로(Orchestra)에서 DevOps를 위한 솔루션을 개발중이며, 주로 변경관리를 위한 티켓 및 워크플로우 형상관리 기능을 개발하고 있습니다.
+      간결하고 효율적인 아키텍처를 고민하며, KISS(Keept It Simple, Stupid)와 DRY(Don't Repeat Yourself) 원칙을 지향합니다.
 
-      보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축 및 운영에 대한 경험이 있습니다.<br>
 
-      항상 효율적인 프로세스에 대해 고민하고, 간결한 커뮤니케이션을 지향합니다. 
+      # 안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
+      # 최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
+      # 보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축 및 운영에 대한 경험이 있습니다.<br>
+      # 항상 효율적인 프로세스에 대해 고민하고, 간결한 커뮤니케이션을 지향합니다. 
 
 # career-profile:
 #     title: About Me
@@ -104,13 +108,17 @@ experiences:
         time: 2023.03 ~
         company: Okestro
         details: |
-          - CI/CD Saas Backend Architect
+          - DevOps 솔루션 개발
+
 
       - role: BE Developer
         time: 2023.06 ~ 2024.02
         company: Okestro
         details: |
-          - KB IQ PLUS 프로젝트 형상 관리 파트 개발
+            - KB IQ+ 프로젝트 형상관리 파트 개발
+                - GitLab 기반 형상 관리 API
+                - 인사 및 사무분담 기반 GitLab 사용자, 멤버 관리 API
+                - 코드병합, 코드병합취소 API
 
       # - role: BE Developer
       #   time: 2023.06 ~ 2024.02
@@ -128,7 +136,7 @@ experiences:
         company: Infinigru
         details: |
             - 피싱아이즈 백엔드 개발 및 인프라 운영
-                - 제휴사 인터페이스
+                - Rest API 개발 및 제휴사 인터페이스
 
       # - role: BE Developer
       #   time: 2019.04 ~ 2023.02
@@ -209,19 +217,19 @@ projects:
     #    tagline: "Neovim Custormize"
       - title: IQ+ 빌드배포 자동화 프로젝트
       #link: "#hook"
-        tagline: "형상관리"
+        tagline: "GitLab기반 형상관리"
 
 
 oss:
-    title: Blog
-    intro: >
-    #      You can list your open source software contributions in this
-    #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Alzar
-        link: https://hrllk.github.io
-        tagline: https://hrllk.github.io
+    # title: Blog
+    # intro: >
+    # #      You can list your open source software contributions in this
+    # #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    # #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # contributions:
+    #   - title: Alzar
+    #     link: https://hrllk.github.io
+    #     tagline: https://hrllk.github.io
         # tagline: 개인 블로그를 운영하고있습니다. <br>
         #          궁금했던 내용이나, 트러블슈팅에 관련된 내용들을 기록하고있습니다.
 
