@@ -9,7 +9,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: HwiRyungKim 
+    name: 김휘령
     tagline: Backand Developer
   #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: resume.png
@@ -52,10 +52,12 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      안녕하세요. Java및 Spring 기반의 6년차 개발자 김휘령입니다. <br>
-      현재는 오케스트로(Orchestra)에서 DevOps를 위한 제품을 개발중이며, <br>
-      주로 변경관리를 위한 티켓 및 워크플로우 형상관리 기능을 개발하고 있습니다.<br>
-      간결하고 효율적인 아키텍처를 고민하고, KISS(Keept It Simple, Stupid)와 DRY(Don't Repeat Yourself) 원칙을 지향합니다.<br>
+      안녕하세요, <br>
+      왜? 그리고 어떻게가 중요한 Java및 Spring 기반의 6년차 개발자 김휘령입니다. <br>
+      최근까지 오케스트로에서 DevOps를 위한 제품을 개발중이고, 그 안에서 주로 변경관리를 위한 기능을 위주로 개발하고있습니다. <br>
+
+      업무를 진행함에 있어 간결하고 효율적인 방법론 및 아키텍처를 고민하고 지향합니다.
+    # KISS(Keept It Simple, Stupid)와 DRY(Don't Repeat Yourself) 원칙을 지향합니다.<br>
 
 
     #      # 안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
@@ -105,25 +107,40 @@ career-profile:
 experiences:
     title: Experience
     info:
-      - role: BE Developer
+      - role: 백엔드 개발자(PL)
         time: 2023.03 ~
         company: 오케스트로
         details: |
-            - Trombone 제품 개발
-                - 코드병합, 코드병합취소 기능 개발
-                - 변경 프로그램 목록 및 Diff
-                - 저장소 커밋 그래프
-                - 워크플로우 구성
-                - 파이프라인 로깅
+            - DevOps 제품 개발 (Trombone)
+              - 서드파티 OSS 연계를 통한 변경관리 기능 개발
+                - 형상
+                  - 그룹, 저장소, 사용자 및 멤버 관리
+                  - 변경 프로그램 목록
+                  - 코드리뷰
+                  - 병합, 병합취소
+                  - 형상 및 커밋 이력 관리
+
+                - 빌드/배포
+                  - WS 배포 실시간 로깅
+
+                - 워크플로우
+                  - 워크플로우 구성(티켓내 단계 구성(자율))
+
+        #              - 워크플로우 기능 개발
+        #                - 코드병합, 코드병합취소 기능 개발
+        #                - 변경 프로그램 목록 및 Diff
+        #                - 저장소 커밋 그래프
 
 
-      - role: BE Developer
+      - role: 백엔드 개발자
         time: 2023.06 ~ 2024.02
         company: 오케스트로
         details: |
-            - KB IQ+ 프로젝트 형상관리 파트 개발
-                - GitLab 기반 형상 관리 기능 및 클라이언트 개발
-                - 인사 및 사무분담 기반 GitLab 사용자, 멤버 관리 기능
+            - IQ+ 프로젝트 - 형상관리 기능 개발
+              - 인사, 사무분담 기반 사용자, 저장소 접근 권한 제어
+              - 그룹, 저장소, 사용자 및 멤버 제어
+        #                - GitLab 기반 형상 관리 기능 및 클라이언트 개발
+        #                - 인사 및 사무분담 기반 GitLab 사용자, 멤버 관리 기능
 
       # - role: BE Developer
       #   time: 2023.06 ~ 2024.02
@@ -136,12 +153,17 @@ experiences:
       #       - 사무분담 정보 기반 Gitlab 멤버 관리 기능 개발
       #       - 산출물 저장소 API 개발
 
-      - role: BE Developer
+      - role: 백엔드 개발자
         time: 2019.04 ~ 2023.02
         company: 인피니그루
         details: |
-            - 피싱아이즈 백엔드 개발 및 인프라 운영
-                - Rest API 개발 및 제휴사 인터페이스
+            - 피싱아이즈 인프라 운영
+                - AWS 기반 플랫폼 환경 인프라 운영
+            - 피싱아이즈 백엔드 개발
+                - TCP/IP, OpenAPI를 통한 제휴사 인터페이스(탐지 정보 제공)
+                - 배치를 통한 수집 애플리케이션 경찰대 인터페이스
+                - 수집 모듈 병목현상으로 인한 메세징큐 운영
+      #         - Rest API 개발 및 제휴사 인터페이스
 
       # - role: BE Developer
       #   time: 2019.04 ~ 2023.02
