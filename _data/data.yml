@@ -1,17 +1,12 @@
-# Mybatis(Mbg), 공통처리, Valkey, Ws
-# 인프라파트가 별도로 존재 
-# Be aware that even a small syntax error here can lead to failures in output.
-#
+
 
 sidebar:
     position: left # position of the sidebar : left or right
-  #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 김휘령
     tagline: Backand Developer
-  #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: resume.png
 
     # Sidebar links
@@ -19,151 +14,49 @@ sidebar:
     phone: +82 010-9760-4565
     timezone: Asia/Seoul
     citizenship:
-  #website: github.com/hrllk
-  #linkedin: alandoe
-  #xing: alandoe
     github: hrllk
-      #telegram: # add your nickname without '@' sign
-      #gitlab:
-      #bitbucket:
-      #twitter: '@webjeda'
-      #stack-overflow: # Number/Username, e.g. 123456/alandoe
-      #codewars:
-      #goodreads: # Number-Username, e.g. 123456-alandoe
-  #pdf: http://www.africau.edu/images/default/sample.pdf
-
-  #    languages:
-  #      title: Languages
-  #      info:
-  #        - idiom: English
-  #          level: little bit.. 
-
-
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: 🎧, 🏊🏻
-    #       link:
-
-      # - item: 🏊
-        #    link:
 
 
 career-profile:
     title: About Me
     summary: |
       안녕하세요, <br>
-      왜? 그리고 어떻게가 중요한 Java및 Spring 기반의 6년차 개발자 김휘령입니다. <br>
-      최근까지 오케스트로에서 DevOps를 위한 제품을 개발중이고, 그 안에서 주로 변경관리를 위한 기능을 위주로 개발하고있습니다. <br>
-
+      **왜?** 그리고 **어떻게?**가 중요한 Java및 Spring 기반의 6년차 개발자 김휘령입니다. <br>
+      현재 오케스트로에서 DevOps를 위한 제품을 개발이며, 주로 변경관리를 위한 기능들을 개발하고있습니다.
       업무를 진행함에 있어 간결하고 효율적인 방법론 및 아키텍처를 고민하고 지향합니다.
-    # KISS(Keept It Simple, Stupid)와 DRY(Don't Repeat Yourself) 원칙을 지향합니다.<br>
-
-
-    #      # 안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
-    #      # 최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
-    #      # 보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축 및 운영에 대한 경험이 있습니다.<br>
-    #      # 항상 효율적인 프로세스에 대해 고민하고, 간결한 커뮤니케이션을 지향합니다. 
-    
-# career-profile:
-#     title: About Me
-#     summary: |
-#       안녕하세요 Java 및 Spring 기반의 5년차 개발자 김휘령입니다. <br>
-#       최근까지 KBIQ+ 빌드 배포 자동화 프로젝트에서 형상에 관련된 기능을 개발하는 업무를 진행하였습니다. <br><br>
-#
-#       보이스피싱 예방 앱 “피싱아이즈” 에서 100만 누적 가입자를 대상으로 백엔드 개발과 인프라(AWS) 구축·운영에 대한 경험이 있습니다.<br>
-#
-#       항상 효율적인 프로세스에 대해 고민하여 인프라 비용을 절감한 경험이 있고, 
-#       프로세스 자동화를 통해 주 10시간의 반복되는 업무를 자동화한 바 있습니다. <br><br>
-#
-#       명확하고 간결한 커뮤니케이션을 지향하고, 국외 동료들과 협업한 경험을 가지고있습니다. 
-
-# education:
-#     title: Education
-#     info:
-#       - degree: MSc in Computer Science
-#         university: University of London
-#         time: 2011 - 2012
-#         details: |
-#           Describe your study here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#           sociis natoque penatibus et magnis dis parturient montes, nascetur
-#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#           pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-#       - degree: BSc in Applied Mathematics
-#         university: Bristol University
-#         time: 2007 - 2011
-#         details: |
-#           Describe your study here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#           sociis natoque penatibus et magnis dis parturient montes, nascetur
-#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#           pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
 
 experiences:
     title: Experience
     info:
-      - role: 백엔드 개발자(PL)
-        time: 2023.03 ~
-        company: 오케스트로
+      # - role: 백엔드 개발자(PL)
+      - role: 오케스트로
+        time: 2023.06 ~
+        # company: 오케스트로
         details: |
-            - DevOps 제품 개발 (Trombone)
-              - 서드파티 OSS 연계를 통한 변경관리 기능 개발
-                - 형상
-                  - 그룹, 저장소, 사용자 및 멤버 관리
-                  - 변경 프로그램 목록
-                  - 코드리뷰
-                  - 병합, 병합취소
-                  - 형상 및 커밋 이력 관리
-
-                - 빌드/배포
-                  - WS 배포 실시간 로깅
-
-                - 워크플로우
-                  - 워크플로우 구성(티켓내 단계 구성(자율))
-
-        #              - 워크플로우 기능 개발
-        #                - 코드병합, 코드병합취소 기능 개발
-        #                - 변경 프로그램 목록 및 Diff
-        #                - 저장소 커밋 그래프
+            - Trombone 개발 (서드파티 OSS 연계를 통해 CICD 기능 개발) <br>
+              - 형상
+                - 인사 정보 및 사무정보 기반 사용자, 멤버관리
+                - 변경 프로그램 목록
+                - 코드 리뷰
+                - 코드 병합 및 취소
+                - 형상 및 커밋 이력 관리
+              - 빌드/배포
+                - 실시간 모니터링
+              - 워크플로우
 
 
-      - role: 백엔드 개발자
-        time: 2023.06 ~ 2024.02
-        company: 오케스트로
-        details: |
-            - IQ+ 프로젝트 - 형상관리 기능 개발
-              - 인사, 사무분담 기반 사용자, 저장소 접근 권한 제어
-              - 그룹, 저장소, 사용자 및 멤버 제어
-        #                - GitLab 기반 형상 관리 기능 및 클라이언트 개발
-        #                - 인사 및 사무분담 기반 GitLab 사용자, 멤버 관리 기능
-
-      # - role: BE Developer
-      #   time: 2023.06 ~ 2024.02
-      #   company: Okestro
-      #   details: |
-      #     - KB IQ+ 빌드 배포 자동화 프로젝트 형상관리 파트 개발
-      #       - Gitlab API 개발
-      #       - 형상 관리 API 개발 및 연계
-      #       - 인사 정보 기반 Gitlab 사용자 관리 기능 개발
-      #       - 사무분담 정보 기반 Gitlab 멤버 관리 기능 개발
-      #       - 산출물 저장소 API 개발
-
-      - role: 백엔드 개발자
+      - role: 인피니그루
         time: 2019.04 ~ 2023.02
-        company: 인피니그루
+        # company: 인피니그루
         details: |
-            - 피싱아이즈 인프라 운영
-                - AWS 기반 플랫폼 환경 인프라 운영
-            - 피싱아이즈 백엔드 개발
-                - TCP/IP, OpenAPI를 통한 제휴사 인터페이스(탐지 정보 제공)
-                - 배치를 통한 수집 애플리케이션 경찰대 인터페이스
-                - 수집 모듈 병목현상으로 인한 메세징큐 운영
-      #         - Rest API 개발 및 제휴사 인터페이스
+          - 피싱아이즈 인프라 운영
+              - 클라우드 기반 인프라 운영(ec2, aurora, s3, efs, ..)
+          - 피싱아이즈 플랫폼 서버 개발
+              - RestAPI, TCP/IP 기반 탐지 정보 및 악성앱 제휴사 연계
+              - 수집 병목으로 인한 MQ 운영 경험
+    #         - 배치를 통한 수집 애플리케이션 경찰대 인터페이스
+    #         - 수집 모듈 병목현상으로 인한 메세징큐 운영
+    #         - Rest API 개발 및 제휴사 인터페이스
 
       # - role: BE Developer
       #   time: 2019.04 ~ 2023.02
@@ -181,148 +74,12 @@ experiences:
       #           - AWS 스토리지 변경으로 비용 최적화<br>
       #
       #       - 삼성전자, KBank 콘솔 개발 및 유지보수 
-          
 
-#          Describe your role here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#          Cum sociis natoque penatibus et magnis dis parturient montes,
-#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#          pellentesque eu, pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
-
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: CV Builder
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-#
-#            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#            justo diam viverra velit, sed rhoncus leo leo eu justo.
-#            Suspendisse placerat risus ante, sed porta nisi blandit at.
-#        - name: Git learning
-#          start: 2019
-#          end:
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-#          credentialname: Github
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
-    intro: >
-    # You can list your side projects in this
-#  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
     assignments:
-    #- title: Vimtellij
-    #    link: "#hook"
-    #    tagline: "Neovim Custormize"
       - title: IQ+ 빌드배포 자동화 프로젝트
-      #link: "#hook"
         tagline: "GitLab기반 형상관리"
 
-
-oss:
-    # title: Blog
-    # intro: >
-    # #      You can list your open source software contributions in this
-    # #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    # #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    # contributions:
-    #   - title: Alzar
-    #     link: https://hrllk.github.io
-    #     tagline: https://hrllk.github.io
-        # tagline: 개인 블로그를 운영하고있습니다. <br>
-        #          궁금했던 내용이나, 트러블슈팅에 관련된 내용들을 기록하고있습니다.
-
-    #       - title: Atom
-    #         link: "#"
-    #         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-    # 
-    #       - title: Delta
-    #         link: "#"
-    #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
-#skills:
-#    title: Skills &amp; Proficiency
-#    toolset:
-#      - name: Java
-#        level: 70%
-#
-#      - name: Spring
-#        level: 70%
-#
-#      - name: Javascript 
-#        level: 70%
-#
-#      - name: jQuery
-#        level: 70%
-#
-#      - name: MariaDB
-#        level: 50%
-#
-#      - name: AWS
-#        level: 50%
-#
-#      - name: HTML & CSS
-#        level: 50%
-#
-#      - name: OSS
-#        level: 50%
-
-
-    #      - name: Ruby on Rails
-    #        level: 85%
-    #
-    #      - name: Sketch & Photoshop
-    #        level: 60%
-
-# footer: 
-#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
