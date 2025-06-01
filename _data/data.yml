@@ -6,7 +6,7 @@ sidebar:
 
     # Profile information
     name: 김휘령
-    tagline: Backand Developer
+    tagline: Software Engineer
     avatar: resume.png
 
     # Sidebar links
@@ -20,10 +20,25 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      안녕하세요, <br>
-      **왜?** 그리고 **어떻게?**가 중요한 Java및 Spring 기반의 6년차 개발자 김휘령입니다. <br>
-      현재 오케스트로에서 DevOps를 위한 제품을 개발이며, 주로 변경관리를 위한 기능들을 개발하고있습니다.
-      업무를 진행함에 있어 간결하고 효율적인 방법론 및 아키텍처를 고민하고 지향합니다.
+      안녕하세요, 소프트웨어 개발자 **김휘령**입니다.
+      <br>
+      > **문제해결** 중심 개발자
+
+      근본적으로 문제 해결을 우선시합니다. 복잡한 문제들을 실행 가능한 작은 단위로 나누고, 실용적인 해결책을 찾기 위해 끊임없이 시도하는 과정을 즐깁니다.
+
+      <br>
+      > **왜?, 어떻게?**를 중요시 합니다.
+
+      그리고, 단순히 주어진 기능을 구현하는 것을 넘어, '왜 이 기능이 필요한가?' 혹은, '어떻게 하면 더 효율적이고 안정적으로 구현할 수 있을까?'와 같은 근본적인 질문을 던지는 것을 중요하게 생각합니다. 문제의 본질을 이해하고 다양한 해결 방법을 탐구하는 과정을 통해 더 나은 설계와 코드를 도출하며, 이는 곧 시스템의 품질과 지속 가능성으로 이어진다고 믿습니다.
+
+
+      <br>
+      > **KISS Principle**
+
+      그리고 '단순함'과 '유지보수성'을 중요시합니다. 코드를 작성할 때 동료들이 쉽게 이해하고 확장할 수 있도록 신경 쓰며, 이는 곧 **팀 전체의 생산성을 높이고 원활한 협업 시너지**를 창출하는 기반이 된다고 믿습니다. 단순하고 잘 관리된 코드는 현재의 효율성뿐만 아니라 미래의 변화에도 유연하게 대처할 수 있게 하며, 함께 더 나은 결과물을 만들어가는 데 중요한 역할을 합니다.
+
+
+
 
 experiences:
     title: Experience
@@ -36,7 +51,7 @@ experiences:
           - Trombone (사내 CICD 플랫폼) 설계 개발
             - 서드파티 OSS 연계를 통해 CICD 기능 개발
             - 형상관리
-              - 인사 정보 및 사무정보 기반 사용자 및 멤버관리 설계 개발
+              - 인사 정보 및 사무정보 기반 관리기능
               - 변경 프로그램 관리 설계 개발
               - 코드 리뷰 설계 개발
               - 코드 병합 및 취소 설계 개발
@@ -53,32 +68,42 @@ experiences:
           - 피싱아이즈 플랫폼 서버 및 인프라 개발/운영
             - 클라우드 인프라 운영
               - AWS 기반 인프라 운영 (EC2, Aurora, S3, EFS 등)
-              - 무중단 배포(Blue/Green, Rolling 등) 경험
+              - 무중단 배포(Rolling) 경험
           - 플랫폼 서버 개발
             - REST API 및 TCP/IP 기반 탐지 정보 처리
               - 악성 앱 정보 수집 및 제휴사 연계 처리
-              - 대용량 수집 병목 경험
-    #         - 배치를 통한 수집 애플리케이션 경찰대 인터페이스
-    #         - 수집 모듈 병목현상으로 인한 메세징큐 운영
-    #         - Rest API 개발 및 제휴사 인터페이스
+              - 대용량 트래픽 병목 경험
 
-      # - role: BE Developer
-      #   time: 2019.04 ~ 2023.02
-      #   company: Infinigru
-      #   details: |
-      #       - 폴리스코난 및 그루택시 백엔드 및 인프라개발
-      #
-      #       - 피싱아이즈 백엔드 및 인프라개발
-      #           - 인프라 구축 및 운영
-      #           - 제휴사(금융사)간의 인터페이스 및 연동
-      #           - 백엔드 Batch 서비스 개발
-      #           - RESTful API 개발
-      #           - 젠킨스구축 및 운영을 통한 CI/CD 경험
-      #           - 병목현상 경험 및 메세징큐 운영
-      #           - AWS 스토리지 변경으로 비용 최적화<br>
-      #
-      #       - 삼성전자, KBank 콘솔 개발 및 유지보수 
 
+skills:
+    title: Skill
+    toolset:
+      - category: Backend
+        skills:
+          - name: Java
+          - name: Spring MVC, Spring Boot
+          - name: Maven, Gradle
+          - name: Mybatis
+
+      - category: DevOps
+        skills:
+          - name: Jenkins
+          - name: SonarQube
+          - name: Git, GitLab, BitBucket
+
+      - category: Frontend
+        skills:
+          - name: React
+          - name: jQuery
+          - name: JavaScript
+
+      - category: Database
+        skills:
+          - name: MariaDB
+
+      - category: Cloud
+        skills:
+          - name: AWS
 
 projects:
     title: Projects

@@ -253,27 +253,41 @@ p {
 }
 
 .skillset {
-  .item {
-    margin-bottom: 15px;
-    overflow: hidden;
+  .skill-category-block {
+    margin-bottom: 5px; /* Add bottom margin to separate category blocks */
+    padding: 10px; /* Add padding around each category block */
+    // border: 1px solid #ddd; /* Add a light border for visual separation */
+    // border-radius: 5px; /* Rounded corners for the border */
+    // background-color: #f9f9f9; /* Light background color for the block */
   }
-  .level-title {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 12px;
+
+  .skill-category-title {
+    h3 {
+      font-size: 16px; /* Slightly larger font size for category titles */
+      margin-top: 0;
+      margin-bottom: 10px; /* Add bottom margin to separate title from list */
+      font-weight: bold; /* Make category titles bold */
+    }
   }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
-  }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
+
+  .skill-category-list {
+    ul {
+      margin-bottom: 0; /* Remove default bottom margin from ul */
+      padding-left: 40%; /* Add some left padding for the list */
+      list-style: disc; /* Use bullet points */
+    }
+    li {
+      margin-bottom: 5px; /* Margin between skill items */
+      font-size: 14px; /* Font size for skill items */
+    }
   }
 }
 
 .footer {
-  padding-top: 30px;
+    padding-top: 30px;
+// }
+//
+//
   .copyright {
     line-height: 1.6;
     color: $text-color-secondary;
@@ -285,3 +299,7 @@ p {
   }
 }
 
+.career-profile-summary blockquote {
+  font-size: 13px;
+  margin-bottom: 10px; /* Add bottom margin to separate title from list */
+}

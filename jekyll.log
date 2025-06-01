@@ -1,0 +1,3139 @@
+Configuration file: /Users/alzar/task/sources/personal/resume/_config.yml
+            Source: /Users/alzar/task/sources/personal/resume
+       Destination: /Users/alzar/task/sources/personal/resume/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.411 seconds.
+ Auto-regeneration: enabled for '/Users/alzar/task/sources/personal/resume'
+jekyll 3.9.2 | Error:  Address already in use - bind(2) for 0.0.0.0:4000
+/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/3.1.0/socket.rb:201:in `bind': Address already in use - b                    ...done in 0.353468 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-05-15 21:19:04
+                    jekyll.log
+                    ...done in 0.255069 seconds.
+                    
+[2025-05-16 03:23:13] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-16 07:13:04] ERROR `/Telerik.Web.UI.WebResource.axd' not found.
+[2025-05-16 07:13:25] ERROR `/zabbix/favicon.ico' not found.
+[2025-05-16 07:14:06] ERROR `/admin/' not found.
+[2025-05-16 07:14:07] ERROR bad Request-Line `\x16\x03\x01\x00ù\x01\x00\x00ô\x03\x03™ûr\x13\f‚ß™⁄x˛9L»ªx\x15\x16\x06¥\x1D√\x06˛˙‰\a=\x18’±©\x00\x00B¿\x11¿\a¿\x13¿\t¿\x14¿'.
+[2025-05-16 07:14:28] ERROR `/api/session/properties' not found.
+[2025-05-16 12:38:23] ERROR `*' not found.
+[2025-05-17 04:38:42] ERROR bad Request-Line `\x16\x03\x03\x01•\x01\x00\x01°\x03\x03Ú0„FGƒMÕ”\e`•ú\x18\rÏ\x00∑ ™\x1F,d ∂ö<5˛\x13"\x0E ¥⁄!∫ì4Ì›bÎÕ∫œˇ\x11'£FÒÔ9£\x0Eõºé\x1D\x03“Õ8a\x00ä\x00\x16\x003\x00g¿û¿¢\x00û\x009\x00k¿ü¿£\x00ü\x00E\x00æ\x00à\x00ƒ\x00ö¿\b¿\t¿#¿¨¿Æ¿+¿'.
+[2025-05-17 13:18:50] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-18 00:56:42] ERROR `*' not found.
+[2025-05-19 11:32:23] ERROR `*' not found.
+[2025-05-19 20:56:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-19 20:56:32] ERROR bad Request-Line `\x16\x03\x01\x00Ú\x01\x00\x00Ó\x03\x03…û\x14õ+Zµ|´ë«…iÌRà"8ﬂ≥ì”\x1C€\x0EÙ»úvô.- 8h–dÓnp–\x18”\x05T•ÒëÙt5¢°q}ùK˝\x16\x03\eÏn‚ß\x00&¿+¿/¿,¿0Ã©Ã®¿\t¿\x13¿'.
+[2025-05-19 20:56:32] ERROR bad URI `12.1.2'.
+[2025-05-19 21:40:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-19 21:40:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-19 21:40:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:22 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-19 21:40:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:23 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-19 21:40:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-20 04:47:26] ERROR bad Request-Line `\x16\x03\x01\x00‡\x01\x00\x00‹\x03\x03{-ÅöaO”c\\æzù¨\x14\x18SÕÑª¯¥P—úa%À´∂\e\x1Cö 8PÈC[€W«&\x12I8\x16ÆÑá∂Ç0ê\x1En∑cÂÏ\x05Z#c\x16È\x00\x18¿/¿0Ã®¿\x13¿\x14\x00ú\x00ù\x00/\x005\x13\x01\x13\x02\x13\x03\x01\x00\x00{\x00\v\x00\x02\x01\x00ˇ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00'.
+[2025-05-20 04:47:32] ERROR bad Request-Line `\x16\x03\x01\x00‡\x01\x00\x00‹\x03\x03^a&G∏è\x15HZ”ç¥æR'.
+[2025-05-20 04:47:32] ERROR bad Request-Line `\x16\x03\x01\x00Ú\x01\x00\x00Ó\x03\x03\x05îÑ‡®+¿Ìî˙3\x0F⁄eÅÌÖ⁄q=Ç\x12◊â†ó‹∞m\t˙< ﬂqÑy‰Xî^õ™$ƒ\x05à√∞ÚsŒä\bw\x11<«P¨\x7F‘g\x06≈\x00\x18¿/¿0Ã®¿\x13¿\x14\x00ú\x00ù\x00/\x005\x13\x01\x13\x02\x13\x03\x01\x00\x00ç\x00\v\x00\x02\x01\x00ˇ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00'.
+[2025-05-20 04:47:33] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-20 23:39:26] ERROR `*' not found.
+[2025-05-21 20:31:21] ERROR bad Request-Line `SSH-2.0-OpenSSH'.
+[2025-05-21 23:01:58] ERROR bad Request-Line `\x16\x03\x01\x00‚\x01\x00\x00ﬁ\x03\x03íI—l\fê–&Cöc|0\x1C´“0-\x7FWƒ˚’eù¡ÛüìÎÍ? \a}…b©Üf`≠!\x1Ag+óÌÜ'ôp\x1Cã+ûlπ\x1A_\v=!@\x04\x00\x1A¿+¿/¿,¿0Ã©Ã®¿\t¿\x13¿'.
+[2025-05-21 23:02:03] ERROR bad Request-Line `\x16\x03\x01\x00‚\x01\x00\x00ﬁ\x03\x03KYô9Ï?)\x04@∑\e“ì<9ÃT@î∞Ÿ∫\x00\t'.
+[2025-05-21 23:02:03] ERROR bad Request-Line `\x16\x03\x01\x00Ù\x01\x00\x00\x03\x03Ä\x10\x13·´$\x1A0ç‘˝˚§ó~àô˘3'.
+[2025-05-21 23:02:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-22 10:12:41] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-22 12:33:08] ERROR `*' not found.
+[2025-05-22 18:58:21] ERROR `/robots.txt' not found.
+[2025-05-23 22:39:38] ERROR `*' not found.
+[2025-05-24 02:14:58] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-24 13:02:04] ERROR bad Request-Line `\x16\x03\x03\x01•\x01\x00\x01°\x03\x03,\v-G1∞53:\x13ÇÔ≤¢ˇÿ€\x1EªÃ…`0T3\x13"√™πÎﬂ /∆'.
+[2025-05-24 20:26:01] ERROR bad URI `B§»¥üı¬017∞ø—ÑÁ}si±\x0Fì˚»∑∏\x00\x00&¿,¿+¿0¿/¿$¿#¿(¿'¿'.
+[2025-05-24 20:26:01] ERROR bad URI `ä\x01£m»\x00\x00\x0E¿'.
+[2025-05-25 12:50:17] ERROR `*' not found.
+[2025-05-26 18:09:10] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-26 23:18:42] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-27 02:14:03] ERROR `*' not found.
+[2025-05-27 10:09:08] ERROR bad Request-Line `\x16\x03\x03\x01•\x01\x00\x01°\x03\x03q›“¨B›!~À2€÷\x19÷\x014(·\x10À"√≤Ô≥≥¨∞°\x1CBE –¡L2≥”8ú8ÁGùO#÷™´ﬁW√ˇ≤:/\vFƒﬂ2≤{{\x00ä\x00\x16\x003\x00g¿û¿¢\x00û\x009\x00k¿ü¿£\x00ü\x00E\x00æ\x00à\x00ƒ\x00ö¿\b¿\t¿#¿¨¿Æ¿+¿'.
+[2025-05-27 15:10:19] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-27 19:27:01] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-27 19:27:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-27 19:27:13] ERROR `*' not found.
+[2025-05-28 12:18:45] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-28 16:24:50] ERROR bad Request-Line `\x16\x03\x03\x01•\x01\x00\x01°\x03\x03¿~¿\x00›ﬂÜE§=ﬂ\x00“.\x1F¯4ﬂ€\x7F~/8€\x18°=/†2∑ ‰—Û?”ÿ›\x12\vRô\x04ú\x16›˘\x1E#¡ÌÕ-˘\x1D\x0FxØ˛\x14MD\x00ä\x00\x16\x003\x00g¿û¿¢\x00û\x009\x00k¿ü¿£\x00ü\x00E\x00æ\x00à\x00ƒ\x00ö¿\b¿\t¿#¿¨¿Æ¿+¿'.
+[2025-05-29 01:39:32] ERROR `*' not found.
+[2025-05-29 09:05:35] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-29 15:22:42] ERROR bad Request-Line `\x16\x03\x03\x01•\x01\x00\x01°\x03\x03:\x18\tO\x10‹ÕCPFDSœ}„∂ãß\aﬁ∫<¨ùC\x00\x12¥\rc&à E\f¸7‡ì©ã„c)AäÍ\r´–7¡‹£7>:ÿÚˇ\x06/ŒNà\x00ä\x00\x16\x003\x00g¿û¿¢\x00û\x009\x00k¿ü¿£\x00ü\x00E\x00æ\x00à\x00ƒ\x00ö¿\b¿\t¿#¿¨¿Æ¿+¿'.
+[2025-05-30 02:54:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-30 02:54:04] ERROR bad Request-Line `\x16\x03\x01\x00Ú\x01\x00\x00Ó\x03\x03À˘\x1E◊zñt‰iq\fÜ…ã\x7FùI\r±ãD°\t¡†â„\r ˘'.
+[2025-05-30 02:54:05] ERROR bad URI `12.1.2'.
+[2025-05-30 02:55:05] ERROR `/sitemap.xml' not found.
+[2025-05-30 02:55:05] ERROR `/robots.txt' not found.
+[2025-05-30 05:30:19] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-30 12:00:37] ERROR `*' not found.
+[2025-05-30 22:49:08] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+[2025-05-31 21:04:53] ERROR Errno::ETIMEDOUT: Operation timed out @ io_fillbuf - fd:17 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-05-31 22:46:29] ERROR bad Request-Line `\x16\x03\x01\x06⁄\x01\x00\x06÷\x03\x03≥˛’?\x14$a:Ùû_é¯î_Ì\x1DL⁄PL Æp[G<\r±/’ ∑C'~∞\x0E…CÈ¬ß)*Rï?ÅÍ\r\x10x<ë«R"]‡¸Dï≈\x00 ZZ\x13\x01\x13\x02\x13\x03¿+¿/¿,¿0Ã©Ã®¿\x13¿\x14\x00ú\x00ù\x00/\x005\x01\x00\x06m  \x00\x00\x003\x04Ô\x04Ì∫∫\x00\x01\x00cô\x04¿⁄–¨\x06ÕzôÅ9´Ì∂sÆ\x06•∏Œh kf1;¯,pW …ØN,‚ífÀ9*˙%õ2+><\v\x01Á\x1E\x19uåeà∏≈|d9·r„\\ÇŸá\x17öq\x00≠«Hp\t`53\x10+≤ZìrÕÚªéüu@\x05ñ∂∑Ç\x03àkÖ\x16Wp±ú°˜Ü˘·¥?\x157Òò¥ÎU.’<.Îº\x17}6\x05öáVIZ>>qn\x16+º†\x13£¯\b¢µ≥\x03WhÃ„Òd\x03Ev\x19+ª57∆ √o⁄ºß≤Àn"⁄&•0DöÑ∫36âı¬√Öq\x151\t0\x0F«5≤≥ü»ßv≠˙\x0Fßh,\x01DúÁ\v∆ê°[¸Ñ*\x12’b\x12ÁY˛RÖ‰6≈,w\x05ÓÊûº‘\x19˝zx\t–8ﬁò/Î\fNàôx†ï•T\x02F¿äºyÃåDÈ$UÙ1\x19R®™\x05`¶[\x10ŸR\x1C˘{Ω*q\e3‘bú`\x1Do7∑œ∆∑D$UÎ°sï¶ãõ7≠\x12PJ\x11·¨!ÈzFp.Fj>Âπ∫ìiÅl·Rë÷~Oë\x12º≈±Å6vñı√ï\tsÏ÷4–k°W\x13«XªYx\\,™¬ƒ[QˇÊöTRL’Â)Y±ã»c ›‰\x03vÛNµ”?Ωkêç\x03\x14\x17Ù"Ftäùr6ÙrGGf\x17\x149s.gJG2H›\aÇ9Ã=À$\x16P∂_\x05 \x1Ctª;cÅ*\x1Cc\x1A∏ÇÜìUé´·¢ —à·ö\x1E;€ä+r1[⁄xÍ¬\x03Ë[s{cW•Ç√X$6ı2í…tå\e⁄√u\x10%\x13£ó‡ñ\a)Òπsb.T!Ñ%§\\u)ü∫ò8˜;6Ñqgº\x01AÆ•<l\v«µíÜ`Ö3¬Åg\x7FÀG,eõN\x03ú/¶WÛ\x14'a¶\x1AÀ\t…`6}Æ∑d(p2◊∏\x05):Œ>÷=À–£¢ïV]“g‰\x13Y\x10ÿó≤\\QÛWV…Î\x04∑6b=¨à<™ú\x1AÈ'â'>\x01Ç:h\vnÚœé£\x0F≥≥/Õˆ"JBOíªpºÊ\x16Ù[µgjetpãÆ◊ÑàC\x11'Q¡˝µ¡∞∫Gu©w‡Pb¨\x05ó£“«nÜ7ªDnƒ&6ÎÙ[tÏ∆è\x11\x13E\b8—‘ù€\\¢ªJNˆ≈\x1Aäë|Ä\a`†î\x01ÜZÄa„∫ÿ<\x0Fp\x03U\x0EÒN·®ó{pÜñÉ\x15!J\x1D$b\x11∂Ç\x1Aëq\x03ÂE\x1AeÇ≤4hôî©,P¥™5…8õÖa≤+rß!&\x13\fŸ\aS[ô´âj`\x03©¨ß\b\x18\x06«íƒõÇ\x01Æ\x04xBíìBœ:\a10\x19\x15qá√#1¯Á≈è"'.
+[2025-05-31 22:46:29] ERROR bad Request-Line `\x16\x03\x01\x06⁄\x01\x00\x06÷\x03\x03?ëÏÖ’\x00”‘k]^Í§Ô?>\x0E2|9te\x10˘∂∏Êèü\\0  OGÊ¬?'Û\x17,Çûæ;Q4u\x17\x1Cù?6öÙE\x16_πê¬§è∂\x00 '.
+[2025-06-01 00:54:31] ERROR `*' not found.
+[2025-06-01 03:21:01] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-06-01 03:21:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `eof?'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/httpserver.rb:82:in `run'
+	/Users/alzar/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/webrick-1.8.1/lib/webrick/server.rb:310:in `block in start_thread'
+[2025-06-01 03:21:12] ERROR `*' not found.
+[2025-06-01 06:58:51] ERROR bad Request-Line `MGLNDD_180.80.5.183_8090'.
+      Regenerating: 1 file(s) changed at 2025-06-01 15:25:00
+                    _data/data.yml.bak250601
+                    ...done in 0.265533 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:26:38
+                    _data/data.yml
+                    ...done in 0.146464 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:26:40
+                    _data/data.yml
+                    ...done in 0.17812 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:26:41
+                    _data/data.yml
+                    ...done in 0.191907 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:26:42
+                    _data/data.yml
+                    ...done in 0.145758 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:26:44
+                    _data/data.yml
+                    ...done in 0.141611 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:27:19
+                    _data/data.yml
+                    ...done in 0.151175 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:27:20
+                    _data/data.yml
+                    ...done in 0.172516 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:27:21
+                    _data/data.yml
+                    ...done in 0.17288 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:27:22
+                    _data/data.yml
+                    ...done in 0.14101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:28:57
+                    docker-compose.yml
+                    ...done in 0.319845 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:28:58
+                    jekyll.log
+                    ...done in 0.306918 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:28:58
+                    jekyll.log
+                    ...done in 0.275914 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:28:59
+                    jekyll.log
+                    ...done in 0.332885 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:29:52
+                    jekyll.log
+                    ...done in 0.362052 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:29:53
+                    jekyll.log
+                    ...done in 0.294916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:29:54
+                    jekyll.log
+                    ...done in 0.303945 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:30:29
+                    _data/data.yml
+                    ...done in 0.185319 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:30:30
+                    _data/data.yml
+                    ...done in 0.162796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:30:30
+                    _data/data.yml
+                    ...done in 0.153742 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:31:15
+                    _data/data.yml
+                    ...done in 0.178922 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:31:22
+                    _data/data.yml
+                    ...done in 0.195407 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:31:29
+                    _data/data.yml
+                    ...done in 0.181071 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:31:46
+                    _data/data.yml
+                    ...done in 0.188583 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:32:26
+                    _data/data.yml
+                    ...done in 0.193607 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:32:28
+                    _data/data.yml
+                    ...done in 0.187242 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:32:41
+                    _data/data.yml
+                    ...done in 0.190987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:32:41
+                    _data/data.yml
+                    ...done in 0.163553 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:02
+                    _data/data.yml
+                    ...done in 0.162966 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:04
+                    _data/data.yml
+                    ...done in 0.152287 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:45
+                    _data/data.yml
+                    ...done in 0.184961 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:45
+                    _data/data.yml
+                    ...done in 0.16233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:51
+                    _data/data.yml
+                    ...done in 0.208463 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:33:51
+                    _data/data.yml
+                    ...done in 0.168039 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:35:05
+                    _data/data.yml
+                    ...done in 0.196033 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:35:31
+                    _sass/_default.scss
+                    ...done in 0.19639 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 15:35:31
+                    _sass/_default.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_default.scssc
+                    ...done in 0.159207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:35:41
+                    _data/data.yml
+                    ...done in 0.189843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:16
+                    _sass/_default.scss
+                    ...done in 0.166199 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:16
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_default.scssc
+                    ...done in 0.154518 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:23
+                    _data/data.yml
+                    ...done in 0.168936 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:37
+                    _data/data.yml
+                    ...done in 0.159238 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:42
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:42
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:37:50
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:32
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:33
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:37
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:42
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected alphabetic or numeric character while scanning an alias at line 26 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:43
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected alphabetic or numeric character while scanning an alias at line 26 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:43
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected alphabetic or numeric character while scanning an alias at line 26 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:44
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:45
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:38:49
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:01
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:02
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:11
+                    assets/css/main.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:22
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:25
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:26
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:33
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:34
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:39:35
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:40:00
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 291[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:40:01
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:40:05
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:40:12
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:40:59
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:02
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:02
+                    _data/data.yml
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Invalid CSS after " }": expected selector or at-rule, was "}" on line 292[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:26
+                    _sass/_base.scss
+                    ...done in 0.180624 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 15:41:26
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.151378 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:30
+                    _sass/_base.scss
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:30
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.17201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:31
+                    _sass/_base.scss
+                    ...done in 0.161716 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:35
+                    _sass/_base.scss
+                    ...done in 0.184887 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:35
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.174399 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:36
+                    _sass/_base.scss
+                    ...done in 0.157057 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:58
+                    _data/data.yml
+                    ...done in 0.157025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:41:59
+                    _data/data.yml
+                    ...done in 0.173291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:00
+                    _data/data.yml
+                    ...done in 0.160186 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:05
+                    _data/data.yml
+                    ...done in 0.198124 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:05
+                    _data/data.yml
+                    ...done in 0.153558 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:06
+                    _data/data.yml
+                    ...done in 0.195288 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:17
+                    _sass/_base.scss
+                    ...done in 0.177492 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:17
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.165608 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:18
+                    _sass/_base.scss
+                    ...done in 0.16633 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:18
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.16721 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:19
+                    _sass/_base.scss
+                    ...done in 0.192316 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 15:42:19
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.159646 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:22
+                    _sass/_base.scss
+                    ...done in 0.164568 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:22
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.176467 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:22
+                    _sass/_base.scss
+                    ...done in 0.161928 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:31
+                    _sass/_base.scss
+                    ...done in 0.178655 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 15:42:31
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.177845 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 15:42:31
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc20250601-89695-1plixo
+                    ...done in 0.158606 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:31
+                    _sass/_base.scss
+                    ...done in 0.161756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:41
+                    _data/data.yml
+                    ...done in 0.197392 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:42
+                    _data/data.yml
+                    ...done in 0.16881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:45
+                    _data/data.yml
+                    ...done in 0.193728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:46
+                    _data/data.yml
+                    ...done in 0.186589 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:47
+                    _data/data.yml
+                    ...done in 0.159438 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:48
+                    _data/data.yml
+                    ...done in 0.16805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:49
+                    _data/data.yml
+                    ...done in 0.16084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:50
+                    _data/data.yml
+                    ...done in 0.184066 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:42:50
+                    _data/data.yml
+                    ...done in 0.171787 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:43:27
+                    _includes/career-profile.html
+                    ...done in 0.17609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:43:41
+                    _includes/career-profile.html
+                    ...done in 0.164698 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:43:48
+                    _sass/_base.scss
+                    ...done in 0.170231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:43:48
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.181582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:43:51
+                    _sass/_base.scss
+                    ...done in 0.151882 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:13
+                    _data/data.yml
+                    ...done in 0.162337 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:18
+                    _data/data.yml
+                    ...done in 0.18194 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:18
+                    _data/data.yml
+                    ...done in 0.158614 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:21
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:21
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:25
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:27
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:28
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:29
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:29
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected comment or line break while scanning a block scalar at line 27 column 7[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:33
+                    _data/data.yml
+                    ...done in 0.170855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:33
+                    _data/data.yml
+                    ...done in 0.147076 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:35
+                    _data/data.yml
+                    ...done in 0.168442 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:56:35
+                    _data/data.yml
+                    ...done in 0.147953 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:29
+                    _data/data.yml
+                    ...done in 0.155801 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:30
+                    _data/data.yml
+                    ...done in 0.159524 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:30
+                    _data/data.yml
+                    ...done in 0.176173 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:30
+                    _data/data.yml
+                    ...done in 0.14215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:57
+                    _data/data.yml
+                    ...done in 0.1623 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:57
+                    _data/data.yml
+                    ...done in 0.150681 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:57
+                    _data/data.yml
+                    ...done in 0.183975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:57:59
+                    _data/data.yml
+                    ...done in 0.177521 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:58:20
+                    _data/data.yml
+                    ...done in 0.151681 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:59:27
+                    _data/data.yml
+                    ...done in 0.154447 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:59:30
+                    _data/data.yml
+                    ...done in 0.151919 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 15:59:30
+                    _data/data.yml
+                    ...done in 0.159803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:10
+                    _data/data.yml
+                    ...done in 0.157343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:11
+                    _data/data.yml
+                    ...done in 0.17449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:47
+                    _data/data.yml
+                    ...done in 0.189148 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:47
+                    _data/data.yml
+                    ...done in 0.15985 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:53
+                    _data/data.yml
+                    ...done in 0.181135 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:54
+                    _data/data.yml
+                    ...done in 0.179366 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:00:54
+                    _data/data.yml
+                    ...done in 0.143637 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:31
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:33
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 19[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:33
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected key while parsing a block mapping at line 93 column 9[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:34
+                    _data/data.yml
+                    ...done in 0.154635 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:34
+                    _data/data.yml
+                    ...done in 0.149577 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:36
+                    _data/data.yml
+                    ...done in 0.183067 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:44
+                    _data/data.yml
+                    ...done in 0.169678 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:46
+                    _data/data.yml
+                    ...done in 0.179664 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:46
+                    _data/data.yml
+                    ...done in 0.157517 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:01:58
+                    _data/data.yml
+                    ...done in 0.172488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:02:22
+                    _data/data.yml
+                    ...done in 0.147502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:02:24
+                    _data/data.yml
+                    ...done in 0.146513 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:02:25
+                    _data/data.yml
+                    ...done in 0.160121 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:02:30
+                    _data/data.yml
+                    ...done in 0.182468 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:16
+                    _includes/skills.html
+                    ...done in 0.167122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:30
+                    _includes/skills.html
+                    ...done in 0.192847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:30
+                    _includes/skills.html
+                    ...done in 0.15309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:35
+                    _includes/skills.html
+                    ...done in 0.167942 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:37
+                    _includes/skills.html
+                    ...done in 0.188084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:37
+                    _includes/skills.html
+                    ...done in 0.164857 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:38
+                    _includes/skills.html
+                    ...done in 0.197529 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:41
+                    _includes/skills.html
+                    ...done in 0.175219 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:42
+                    _includes/skills.html
+                    ...done in 0.158229 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:03:43
+                    _includes/skills.html
+                    ...done in 0.162766 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:04:05
+                    _includes/skills.html
+                    ...done in 0.148427 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:04:05
+                    _includes/skills.html
+                    ...done in 0.182817 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:04:06
+                    _includes/skills.html
+                    ...done in 0.184025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:06
+                    _includes/skills.html
+                    ...done in 0.161102 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:12
+                    _includes/skills.html
+                    ...done in 0.186649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:12
+                    _includes/skills.html
+                    ...done in 0.153862 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:19
+                    _includes/skills.html
+                    ...done in 0.14741 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:20
+                    _includes/skills.html
+                    ...done in 0.171359 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:21
+                    _includes/skills.html
+                    ...done in 0.182767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:22
+                    _includes/skills.html
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:31
+                    _data/data.yml
+                    ...done in 0.178343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:32
+                    _data/data.yml
+                    ...done in 0.169723 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:33
+                    _data/data.yml
+                    ...done in 0.157163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:35
+                    _data/data.yml
+                    ...done in 0.169441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:36
+                    _data/data.yml
+                    ...done in 0.153193 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:36
+                    _data/data.yml
+                    ...done in 0.151843 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:36
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected key while parsing a block mapping at line 93 column 9[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:36
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 19[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:36
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:37
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:37
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:37
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:37
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): mapping values are not allowed in this context at line 94 column 21[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:38
+                    _data/data.yml
+                    ...done in 0.143616 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:44
+                    _data/data.yml
+                    ...done in 0.186643 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:44
+                    _data/data.yml
+                    ...done in 0.161354 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:45
+                    _data/data.yml
+                    ...done in 0.157871 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:45
+                    _data/data.yml
+                    ...done in 0.166678 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:45
+                    _data/data.yml
+                    ...done in 0.173201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:46
+                    _data/data.yml
+                    ...done in 0.147692 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:46
+                    _data/data.yml
+                    ...done in 0.184506 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:46
+                    _data/data.yml
+                    ...done in 0.152533 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:47
+                    _data/data.yml
+                    ...done in 0.16346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:47
+                    _data/data.yml
+                    ...done in 0.14476 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:47
+                    _data/data.yml
+                    ...done in 0.165769 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:47
+                    _data/data.yml
+                    ...done in 0.15802 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:48
+                    _data/data.yml
+                    ...done in 0.175714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:48
+                    _data/data.yml
+                    ...done in 0.149368 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:49
+                    _data/data.yml
+                    ...done in 0.193013 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:54
+                    _includes/skills.html
+                    ...done in 0.188795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:56
+                    _includes/skills.html
+                    ...done in 0.174562 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:05:56
+                    _includes/skills.html
+                    ...done in 0.152144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:00
+                    _includes/skills.html
+                    ...done in 0.191459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:09
+                    _data/data.yml
+                    ...done in 0.175686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:16
+                    _includes/skills.html
+                    ...done in 0.172449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:37
+                    _data/data.yml
+                    ...done in 0.166111 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:38
+                    _data/data.yml
+                    ...done in 0.151776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:39
+                    _data/data.yml
+                    ...done in 0.185806 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:40
+                    _data/data.yml
+                    ...done in 0.17154 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:42
+                    _data/data.yml
+                    ...done in 0.179026 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:48
+                    _data/data.yml
+                    ...done in 0.170999 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:48
+                    _data/data.yml
+                    ...done in 0.145828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:50
+                    _data/data.yml
+                    ...done in 0.18449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:51
+                    _data/data.yml
+                    ...done in 0.153296 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:52
+                    _data/data.yml
+                    ...done in 0.1876 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:57
+                    _data/data.yml
+                    ...done in 0.185541 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:06:58
+                    _data/data.yml
+                    ...done in 0.158646 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:07:01
+                    _data/data.yml
+                    ...done in 0.186581 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:07:22
+                    _data/data.yml
+                    ...done in 0.170965 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:07:37
+                    _data/data.yml
+                    ...done in 0.167001 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:07:52
+                    _data/data.yml
+                    ...done in 0.16951 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:30
+                    _data/data.yml
+                    ...done in 0.162688 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:38
+                    _data/data.yml
+                    ...done in 0.161842 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:39
+                    _includes/skills.html
+                    ...done in 0.152582 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:43
+                    _includes/skills.html
+                    ...done in 0.14869 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:50
+                    _includes/skills.html
+                    ...done in 0.184423 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:08:53
+                    _data/data.yml
+                    ...done in 0.169405 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:09:00
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 96 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:09:00
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 96 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:09:03
+                    _data/data.yml
+                    ...done in 0.153372 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:09:03
+                    _data/data.yml
+                    ...done in 0.158437 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:09:04
+                    _data/data.yml
+                    ...done in 0.177784 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:10:46
+                    _data/data.yml
+                    ...done in 0.183942 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:10:51
+                    _data/data.yml
+                    ...done in 0.148577 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:10:59
+                    _includes/skills.html
+                    ...done in 0.194829 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:11:03
+                    _includes/skills.html
+                    ...done in 0.149065 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:11:55
+                    _sass/_base.scss
+                    ...done in 0.175643 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:11:55
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.152938 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:12:01
+                    _sass/_base.scss
+                    ...done in 0.144016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:13:22
+                    _includes/skills.html
+                    ...done in 0.177488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:13:31
+                    _includes/skills.html
+                    ...done in 0.147636 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:25
+                    _includes/skills.html
+                    ...done in 0.172307 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:26
+                    _includes/skills.html
+                    ...done in 0.170074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:28
+                    _includes/skills.html
+                    ...done in 0.189942 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:29
+                    _includes/skills.html
+                    ...done in 0.167663 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:30
+                    _includes/skills.html
+                    ...done in 0.148204 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:14:30
+                    _includes/skills.html
+                    ...done in 0.150501 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:15:54
+                    _sass/_base.scss
+                    ...done in 0.165477 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:15:54
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.164092 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:01
+                    _sass/_base.scss
+                    ...done in 0.152873 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:05
+                    _sass/_base.scss
+                    ...done in 0.177286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:05
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.163557 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:10
+                    _sass/_base.scss
+                    ...done in 0.150503 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:38
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:44
+                    _includes/skills.html
+                    ...done in 0.185686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:54
+                    _includes/skills.html
+                    ...done in 0.175414 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:55
+                    _includes/skills.html
+[31m  Liquid Exception: Could not locate the included file 'skills.html' in any of ["/Users/alzar/task/sources/personal/resume/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source. in index.html[0m
+[33m             Error: Could not locate the included file 'skills.html' in any of ["/Users/alzar/task/sources/personal/resume/_includes"]. Ensure it exists in one of those directories and, if it is a symlink, does not point outside your site source.[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:55
+                    _includes/skills.html
+                    ...done in 0.159691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:56
+                    _includes/skills.html
+                    ...done in 0.194938 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:16:58
+                    _includes/skills.html
+                    ...done in 0.190964 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:00
+                    _includes/skills.html
+                    ...done in 0.180859 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:03
+                    _includes/skills.html
+                    ...done in 0.184086 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:05
+                    _includes/skills.html
+                    ...done in 0.149402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:06
+                    _includes/skills.html
+                    ...done in 0.170058 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:11
+                    _includes/skills.html
+                    ...done in 0.20091 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:17:49
+                    _includes/skills.html
+                    ...done in 0.173397 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:09
+                    _includes/skills.html
+                    ...done in 0.164782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:09
+                    _includes/skills.html
+                    ...done in 0.161286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:10
+                    _includes/skills.html
+                    ...done in 0.151615 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:10
+                    _includes/skills.html
+                    ...done in 0.159203 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:15
+                    _includes/skills.html
+                    ...done in 0.199022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:15
+                    _includes/skills.html
+                    ...done in 0.161097 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:24
+                    _includes/skills.html
+                    ...done in 0.194448 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:25
+                    _includes/skills.html
+                    ...done in 0.160645 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:27
+                    _includes/skills.html
+                    ...done in 0.156644 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:27
+                    _includes/skills.html
+                    ...done in 0.151242 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:29
+                    _includes/skills.html
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:29
+                    _includes/skills.html
+                    ...done in 0.185456 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:30
+                    _includes/skills.html
+                    ...done in 0.176278 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:34
+                    _includes/skills.html
+                    ...done in 0.195968 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:20:42
+                    _includes/skills.html
+                    ...done in 0.180314 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:21:14
+                    _includes/skills.html
+                    ...done in 0.151232 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:21:43
+                    _includes/skills.html
+                    ...done in 0.171579 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:21:49
+                    _includes/skills.html
+                    ...done in 0.153449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:21:57
+                    _sass/_base.scss
+                    ...done in 0.164691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:21:57
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.160649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:22:01
+                    _sass/_base.scss
+                    ...done in 0.140795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:22:08
+                    _sass/_base.scss
+                    ...done in 0.178544 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:22:08
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc20250601-89695-utcnpa
+                    ...done in 0.155136 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:22:21
+                    _sass/_base.scss
+                    ...done in 0.157368 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:22:49
+                    _sass/_base.scss
+                    ...done in 0.166029 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:22:50
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:07
+                    _includes/skills.html
+                    ...done in 0.160039 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:12
+                    _includes/skills.html
+                    ...done in 0.170983 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:13
+                    _includes/skills.html
+                    ...done in 0.186818 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:13
+                    _includes/skills.html
+                    ...done in 0.179017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:17
+                    _includes/skills.html
+                    ...done in 0.187281 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:26
+                    _data/data.yml
+                    ...done in 0.161616 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:27
+                    _data/data.yml
+                    ...done in 0.159725 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:28
+                    _data/data.yml
+                    ...done in 0.176692 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:29
+                    _data/data.yml
+                    ...done in 0.146523 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:38
+                    _data/data.yml
+                    ...done in 0.158497 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:39
+                    _data/data.yml
+                    ...done in 0.159174 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:40
+                    _data/data.yml
+                    ...done in 0.157346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:41
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:41
+                    _data/data.yml
+                    ...done in 0.14777 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:43
+                    _data/data.yml
+                    ...done in 0.181138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:43
+                    _data/data.yml
+                    ...done in 0.15696 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:44
+                    _data/data.yml
+                    ...done in 0.176997 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:45
+                    _data/data.yml
+                    ...done in 0.169191 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:23:45
+                    _data/data.yml
+                    ...done in 0.15987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:18
+                    _includes/skills.html
+                    ...done in 0.18108 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:26
+                    _includes/skills.html
+                    ...done in 0.169854 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:28
+                    _includes/skills.html
+                    ...done in 0.165703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:29
+                    _includes/skills.html
+                    ...done in 0.164487 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:31
+                    _includes/skills.html
+                    ...done in 0.172249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:31
+                    _includes/skills.html
+                    ...done in 0.164751 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:24:32
+                    _includes/skills.html
+                    ...done in 0.165048 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:20
+                    _sass/_base.scss
+                    ...done in 0.148286 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:22
+                    _data/data.yml
+                    ...done in 0.180753 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:46
+                    _data/data.yml
+                    ...done in 0.146441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:54
+                    _data/data.yml
+                    ...done in 0.150319 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:55
+                    _data/data.yml
+                    ...done in 0.163739 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:56
+                    _data/data.yml
+                    ...done in 0.190979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:25:57
+                    _data/data.yml
+                    ...done in 0.152941 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:27:25
+                    _includes/skills.html
+                    ...done in 0.162314 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:27:26
+                    _includes/skills.html
+                    ...done in 0.192918 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:27:41
+                    _includes/skills.html
+                    ...done in 0.153639 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:27:42
+                    _includes/skills.html
+                    ...done in 0.157664 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:27:42
+                    _includes/skills.html
+                    ...done in 0.150023 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:04
+                    _sass/_base.scss
+                    ...done in 0.151322 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:29
+                    _sass/_base.scss
+                    ...done in 0.164441 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:28:29
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.15045 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:36
+                    _sass/_base.scss
+                    ...done in 0.183338 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:36
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.157441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:39
+                    _sass/_base.scss
+                    ...done in 0.179237 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:28:39
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.152384 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:42
+                    _sass/_base.scss
+                    ...done in 0.181024 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:42
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.163238 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:50
+                    _sass/_base.scss
+                    ...done in 0.160587 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:50
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.156255 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:51
+                    _sass/_base.scss
+                    ...done in 0.168203 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:52
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.169984 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:52
+                    _sass/_base.scss
+                    ...done in 0.194942 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:28:53
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.163979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:55
+                    _sass/_base.scss
+                    ...done in 0.155509 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:58
+                    _sass/_base.scss
+                    ...done in 0.153931 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:28:59
+                    _sass/_base.scss
+                    ...done in 0.152128 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:00
+                    _sass/_base.scss
+                    ...done in 0.190636 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:02
+                    _sass/_base.scss
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after "... padding-left: ": expected expression (e.g. 1px, bold), was "; /* Add some l..." on line 276[0m
+[33m             Error: Invalid CSS after "... padding-left: ": expected expression (e.g. 1px, bold), was "; /* Add some l..." on line 276[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:02
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+[31m  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/css/main.scss':[0m
+[31m                    Invalid CSS after "... padding-left: ": expected expression (e.g. 1px, bold), was "; /* Add some l..." on line 276[0m
+[33m             Error: Invalid CSS after "... padding-left: ": expected expression (e.g. 1px, bold), was "; /* Add some l..." on line 276[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:03
+                    _sass/_base.scss
+                    ...done in 0.174724 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:29:04
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:09
+                    _sass/_base.scss
+                    ...done in 0.197051 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:29:10
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.165732 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:10
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.174139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:10
+                    _sass/_base.scss
+                    ...done in 0.161781 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:16
+                    _sass/_base.scss
+                    ...done in 0.196168 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:16
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.159492 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:17
+                    _sass/_base.scss
+                    ...done in 0.185577 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:29:17
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.164317 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:28
+                    _sass/_base.scss
+                    ...done in 0.161979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:40
+                    _sass/_base.scss
+                    ...done in 0.177491 seconds.
+                    
+      Regenerating: 3 file(s) changed at 2025-06-01 16:29:41
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc20250601-61379-usihgt
+                    ...done in 0.148081 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:49
+                    _includes/skills.html
+                    ...done in 0.14797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:49
+                    _data/data.yml
+                    ...done in 0.163877 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:52
+                    _data/data.yml
+                    ...done in 0.171526 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:29:53
+                    _data/data.yml
+                    ...done in 0.151997 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:30:27
+                    _data/data.yml
+                    ...done in 0.166101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:30:44
+                    _data/data.yml
+                    ...done in 0.155139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:30:46
+                    _data/data.yml
+                    ...done in 0.173909 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:31:24
+                    _data/data.yml
+                    ...done in 0.173053 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:31:28
+                    _data/data.yml
+                    ...done in 0.158594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:32:53
+                    _data/data.yml
+                    ...done in 0.185424 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:22
+                    _data/data.yml
+                    ...done in 0.165081 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:24
+                    _data/data.yml
+                    ...done in 0.158156 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:29
+                    _data/data.yml
+                    ...done in 0.170535 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:29
+                    _data/data.yml
+                    ...done in 0.150436 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:30
+                    _data/data.yml
+                    ...done in 0.169638 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:42
+                    _data/data.yml
+                    ...done in 0.166897 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:45
+                    _data/data.yml
+                    ...done in 0.177346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:45
+                    _data/data.yml
+                    ...done in 0.188609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:33:53
+                    _data/data.yml
+                    ...done in 0.178647 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:34:04
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:34:05
+                    _data/data.yml
+                    ...done in 0.169122 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:34:55
+                    _data/data.yml
+                    ...done in 0.158969 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:34:59
+                    _data/data.yml
+                    ...done in 0.159634 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:35:16
+                    _data/data.yml
+                    ...done in 0.170777 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:35:17
+                    _data/data.yml
+                    ...done in 0.170779 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:35:18
+                    _data/data.yml
+                    ...done in 0.151926 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:35:56
+                    _sass/_base.scss
+                    ...done in 0.161716 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:02
+                    _sass/_base.scss
+                    ...done in 0.205081 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:36:02
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.170702 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:36:03
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.151828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:18
+                    _includes/skills.html
+                    ...done in 0.157893 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:19
+                    _data/data.yml
+                    ...done in 0.17642 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:20
+                    _data/data.yml
+                    ...done in 0.155669 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:27
+                    _data/data.yml
+                    ...done in 0.173609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:28
+                    _data/data.yml
+                    ...done in 0.167143 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:28
+                    _data/data.yml
+                    ...done in 0.151459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:36:29
+                    _data/data.yml
+                    ...done in 0.180888 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:40:57
+                    _data/data.yml
+                    ...done in 0.182236 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:41:03
+                    _data/data.yml
+                    ...done in 0.162482 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:41:07
+                    _data/data.yml
+                    ...done in 0.187445 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:41:45
+                    _data/data.yml
+                    ...done in 0.152007 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:41:59
+                    _data/data.yml
+                    ...done in 0.171138 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:41:59
+                    _data/data.yml
+                    ...done in 0.168707 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:00
+                    _data/data.yml
+                    ...done in 0.156236 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:00
+                    _data/data.yml
+                    ...done in 0.166419 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:12
+                    _data/data.yml
+                    ...done in 0.155908 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:12
+                    _data/data.yml
+                    ...done in 0.154383 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:50
+                    _data/data.yml
+                    ...done in 0.154305 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:51
+                    _data/data.yml
+                    ...done in 0.148064 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:42:51
+                    _data/data.yml
+                    ...done in 0.164662 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:02
+                    _data/data.yml
+                    ...done in 0.167463 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:02
+                    _data/data.yml
+                    ...done in 0.159499 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:30
+                    _data/data.yml
+                    ...done in 0.162529 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:32
+                    _data/data.yml
+                    ...done in 0.163771 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:52
+                    _data/data.yml
+                    ...done in 0.157715 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:54
+                    _data/data.yml
+                    ...done in 0.187376 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:43:54
+                    _data/data.yml
+                    ...done in 0.159331 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:44:08
+                    _data/data.yml
+                    ...done in 0.157563 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:44:35
+                    _data/data.yml
+                    ...done in 0.152576 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:45:36
+                    _data/data.yml
+                    ...done in 0.168729 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:45:48
+                    _data/data.yml
+                    ...done in 0.164383 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:45:49
+                    _data/data.yml
+                    ...done in 0.176197 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:46:11
+                    _data/data.yml
+                    ...done in 0.149172 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:46:12
+                    _data/data.yml
+                    ...done in 0.170888 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:46:13
+                    _data/data.yml
+                    ...done in 0.171847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:49:47
+                    _data/data.yml
+                    ...done in 0.167904 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:04
+                    _data/data.yml
+                    ...done in 0.17858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:07
+                    _data/data.yml
+                    ...done in 0.178054 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:07
+                    _data/data.yml
+                    ...done in 0.161483 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:19
+                    _data/data.yml
+                    ...done in 0.155142 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:39
+                    _data/data.yml
+                    ...done in 0.160007 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:40
+                    _data/data.yml
+                    ...done in 0.180703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:50:40
+                    _data/data.yml
+                    ...done in 0.144524 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:02
+                    _data/data.yml
+                    ...done in 0.161906 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:05
+                    _data/data.yml
+                    ...done in 0.150324 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:07
+                    _data/data.yml
+                    ...done in 0.177145 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:13
+                    _data/data.yml
+                    ...done in 0.187593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:13
+                    _data/data.yml
+                    ...done in 0.155412 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:31
+                    _data/data.yml
+                    ...done in 0.177219 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:47
+                    _data/data.yml
+                    ...done in 0.175949 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:51
+                    _data/data.yml
+                    ...done in 0.173058 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:52
+                    _data/data.yml
+                    ...done in 0.159973 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:51:54
+                    _data/data.yml
+                    ...done in 0.154813 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:23
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 28 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:24
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 28 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:26
+                    _data/data.yml
+                    ...done in 0.161212 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:26
+                    _data/data.yml
+                    ...done in 0.151327 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:43
+                    _data/data.yml
+                    ...done in 0.166535 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:43
+                    _data/data.yml
+                    ...done in 0.155074 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:47
+                    _data/data.yml
+                    ...done in 0.159705 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:48
+                    _data/data.yml
+                    ...done in 0.159505 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:49
+                    _data/data.yml
+                    ...done in 0.17426 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:59
+                    _data/data.yml
+                    ...done in 0.195273 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:59
+                    _data/data.yml
+                    ...done in 0.156734 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:52:59
+                    _data/data.yml
+                    ...done in 0.166054 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:09
+                    _data/data.yml
+                    ...done in 0.184648 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:09
+                    _data/data.yml
+                    ...done in 0.148971 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:16
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 32 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:17
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 32 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:17
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 32 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:18
+                    _data/data.yml
+                    ...done in 0.146864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:19
+                    _data/data.yml
+                    ...done in 0.146034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:21
+                    _data/data.yml
+                    ...done in 0.17161 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:53
+                    _data/data.yml
+                    ...done in 0.148839 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:54
+                    _data/data.yml
+                    ...done in 0.151188 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:53:54
+                    _data/data.yml
+                    ...done in 0.157051 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:05
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected key while parsing a block mapping at line 21 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:06
+                    _data/data.yml
+                    ...done in 0.144134 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:07
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 26 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:08
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 26 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:08
+                    _data/data.yml
+                    ...done in 0.127577 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:09
+                    _data/data.yml
+                    ...done in 0.167162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:09
+                    _data/data.yml
+                    ...done in 0.158028 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:17
+                    _data/data.yml
+                    ...done in 0.191103 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:18
+                    _data/data.yml
+                    ...done in 0.169363 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:26
+                    _data/data.yml
+                    ...done in 0.159642 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:26
+                    _data/data.yml
+                    ...done in 0.153158 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:33
+                    _data/data.yml
+                    ...done in 0.159068 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:35
+                    _data/data.yml
+                    ...done in 0.167304 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:35
+                    _data/data.yml
+                    ...done in 0.164962 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:35
+                    _data/data.yml
+                    ...done in 0.158868 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:36
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:37
+                    _data/data.yml
+                    ...done in 0.161306 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:37
+                    _data/data.yml
+                    ...done in 0.157678 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:49
+                    _data/data.yml
+                    ...done in 0.168632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:49
+                    _data/data.yml
+                    ...done in 0.149632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:49
+                    _data/data.yml
+                    ...done in 0.162425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:50
+                    _data/data.yml
+                    ...done in 0.153589 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:54:57
+                    _sass/_base.scss
+                    ...done in 0.156926 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:06
+                    _sass/_base.scss
+                    ...done in 0.169624 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:06
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.17752 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 16:55:07
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.155586 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:07
+                    _sass/_base.scss
+                    ...done in 0.161218 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:20
+                    _data/data.yml
+                    ...done in 0.160847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:25
+                    _data/data.yml
+                    ...done in 0.155671 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:25
+                    _data/data.yml
+                    ...done in 0.148157 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:32
+                    _data/data.yml
+                    ...done in 0.175831 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:34
+                    _data/data.yml
+                    ...done in 0.18072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:40
+                    _data/data.yml
+                    ...done in 0.147872 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:41
+                    _data/data.yml
+                    ...done in 0.19043 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:44
+                    _data/data.yml
+                    ...done in 0.181475 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:44
+                    _data/data.yml
+                    ...done in 0.150331 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:45
+                    _data/data.yml
+                    ...done in 0.151647 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:46
+                    _data/data.yml
+                    ...done in 0.162822 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:46
+                    _data/data.yml
+                    ...done in 0.175781 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:47
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:48
+                    _data/data.yml
+                    ...done in 0.168752 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:49
+                    _data/data.yml
+                    ...done in 0.198207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:55:49
+                    _data/data.yml
+                    ...done in 0.152891 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:56:46
+                    _data/data.yml
+                    ...done in 0.18307 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:56:57
+                    _data/data.yml
+                    ...done in 0.155997 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:56:59
+                    _data/data.yml
+                    ...done in 0.178496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:00
+                    _data/data.yml
+                    ...done in 0.172283 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:06
+                    _data/data.yml
+                    ...done in 0.187108 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:07
+                    _data/data.yml
+                    ...done in 0.15324 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:08
+                    _data/data.yml
+                    ...done in 0.14926 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:08
+                    _data/data.yml
+                    ...done in 0.168691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:09
+                    _data/data.yml
+                    ...done in 0.174735 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:37
+                    _data/data.yml
+                    ...done in 0.158433 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:37
+                    _data/data.yml
+                    ...done in 0.159985 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:57:38
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:00
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 35 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:01
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected key while parsing a block mapping at line 21 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:01
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): did not find expected key while parsing a block mapping at line 21 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:09
+                    _data/data.yml
+                    ...done in 0.144974 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:09
+                    _data/data.yml
+                    ...done in 0.157438 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:43
+                    _data/data.yml
+                    ...done in 0.150797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:47
+                    _data/data.yml
+                    ...done in 0.150941 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:48
+                    _data/data.yml
+                    ...done in 0.162984 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:48
+                    _data/data.yml
+                    ...done in 0.149858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:49
+                    _data/data.yml
+                    ...done in 0.17291 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:49
+                    _data/data.yml
+                    ...done in 0.145969 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:54
+                    _data/data.yml
+                    ...done in 0.162524 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:58:55
+                    _data/data.yml
+                    ...done in 0.184402 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:23
+                    _data/data.yml
+                    ...done in 0.148753 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:24
+                    _data/data.yml
+                    ...done in 0.156711 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:27
+                    _data/data.yml
+                    ...done in 0.180796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:27
+                    _data/data.yml
+                    ...done in 0.154579 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:28
+                    _data/data.yml
+                    ...done in 0.17184 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:28
+                    _data/data.yml
+                    ...done in 0.155821 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:29
+                    _data/data.yml
+                    ...done in 0.184324 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:35
+                    _data/data.yml
+                    ...done in 0.172348 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 16:59:35
+                    _data/data.yml
+                    ...done in 0.148253 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:00
+                    _data/data.yml
+                    ...done in 0.171681 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:00
+                    _data/data.yml
+                    ...done in 0.155925 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:01
+                    _data/data.yml
+                    ...done in 0.169473 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:17
+                    _data/data.yml
+                    ...done in 0.158523 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:18
+                    _data/data.yml
+                    ...done in 0.161333 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:20
+                    _data/data.yml
+                    ...done in 0.170163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:20
+                    _data/data.yml
+                    ...done in 0.150566 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:40
+                    _data/data.yml
+                    ...done in 0.158249 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:53
+                    _data/data.yml
+                    ...done in 0.1581 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:56
+                    _data/data.yml
+                    ...done in 0.178429 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:58
+                    _data/data.yml
+                    ...done in 0.208318 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:00:58
+                    _data/data.yml
+                    ...done in 0.15823 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:00
+                    _data/data.yml
+                    ...done in 0.166289 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:00
+                    _data/data.yml
+                    ...done in 0.171946 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:13
+                    _data/data.yml
+                    ...done in 0.163954 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:23
+                    _data/data.yml
+                    ...done in 0.171828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:29
+                    _data/data.yml
+                    ...done in 0.163303 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:30
+                    _data/data.yml
+                    ...done in 0.15605 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:31
+                    _data/data.yml
+                    ...done in 0.189359 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:32
+                    _data/data.yml
+                    ...done in 0.151553 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:01:48
+                    _data/data.yml
+                    ...done in 0.171807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:21
+                    _data/data.yml
+                    ...done in 0.179486 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:22
+                    _data/data.yml
+                    ...done in 0.15025 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:33
+                    _data/data.yml
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:36
+                    _data/data.yml
+                    ...done in 0.17095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:40
+                    _data/data.yml
+                    ...done in 0.166454 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:40
+                    _data/data.yml
+                    ...done in 0.1673 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:41
+                    _data/data.yml
+                    ...done in 0.175951 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:43
+                    _data/data.yml
+                    ...done in 0.169198 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:44
+                    _data/data.yml
+                    ...done in 0.157833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:55
+                    _data/data.yml
+                    ...done in 0.157024 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:02:56
+                    _data/data.yml
+                    ...done in 0.158124 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:53
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 39 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:54
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 39 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:55
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 40 column 1[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:56
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 40 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:56
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 40 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:56
+                    _data/data.yml
+                    ...done in 0.154756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:04:57
+                    _data/data.yml
+                    ...done in 0.163247 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:05:17
+                    _data/data.yml
+                    ...done in 0.169467 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:05:47
+                    _data/data.yml
+                    ...done in 0.155755 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:14
+                    _data/data.yml
+                    ...done in 0.168897 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:17
+                    _data/data.yml
+                    ...done in 0.182368 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:20
+                    _data/data.yml
+                    ...done in 0.151639 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:20
+                    _data/data.yml
+                    ...done in 0.151619 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:24
+                    _data/data.yml
+                    ...done in 0.150693 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:24
+                    _data/data.yml
+                    ...done in 0.159709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:28
+                    _data/data.yml
+                    ...done in 0.174892 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:48
+                    _data/data.yml
+                    ...done in 0.153072 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:49
+                    _data/data.yml
+                    ...done in 0.189481 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:55
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 37 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:56
+                    _data/data.yml
+                    ...done in 0.147046 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:57
+                    _data/data.yml
+                    ...done in 0.16263 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:06:57
+                    _data/data.yml
+                    ...done in 0.160153 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:14
+                    _sass/_base.scss
+                    ...done in 0.169262 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:29
+                    _sass/_base.scss
+                    ...done in 0.160229 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:29
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.167234 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:30
+                    _sass/_base.scss
+                    ...done in 0.18408 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:30
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.16711 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:07:31
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.148799 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:32
+                    _sass/_base.scss
+                    ...done in 0.178549 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:07:32
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.147446 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:33
+                    _sass/_base.scss
+                    ...done in 0.171119 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:07:33
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.147943 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:47
+                    _sass/_base.scss
+                    ...done in 0.182489 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:48
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.150357 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:07:49
+                    _sass/_base.scss
+                    ...done in 0.161899 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:07:49
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    _sass/_base.scss
+                    ...done in 0.148828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:08:10
+                    _data/data.yml
+                    ...done in 0.150839 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:08:25
+                    _data/data.yml
+                    ...done in 0.160044 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:08:26
+                    _data/data.yml
+                    ...done in 0.152742 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:09:35
+                    _data/data.yml
+                    ...done in 0.164353 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:15
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 41 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:16
+                    _data/data.yml
+[33m             Error: (/Users/alzar/task/sources/personal/resume/_data/data.yml): could not find expected ':' while scanning a simple key at line 41 column 5[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:16
+                    _data/data.yml
+                    ...done in 0.148691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:17
+                    _data/data.yml
+                    ...done in 0.156172 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:17
+                    _data/data.yml
+                    ...done in 0.167119 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:17
+                    _data/data.yml
+                    ...done in 0.153907 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:18
+                    _data/data.yml
+                    ...done in 0.159967 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:10:18
+                    _data/data.yml
+                    ...done in 0.159697 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:07
+                    _data/data.yml
+                    ...done in 0.154907 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:15
+                    _data/data.yml
+                    ...done in 0.162194 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:16
+                    _data/data.yml
+                    ...done in 0.158936 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:45
+                    _data/data.yml
+                    ...done in 0.175419 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:48
+                    _data/data.yml
+                    ...done in 0.158784 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:53
+                    _data/data.yml
+                    ...done in 0.164944 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:54
+                    _data/data.yml
+                    ...done in 0.154942 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:54
+                    _data/data.yml
+                    ...done in 0.159095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:55
+                    _data/data.yml
+                    ...done in 0.197088 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:11:57
+                    _data/data.yml
+                    ...done in 0.16313 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:00
+                    _data/data.yml
+                    ...done in 0.15638 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:06
+                    _data/data.yml
+                    ...done in 0.165459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:07
+                    _data/data.yml
+                    ...done in 0.188927 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:08
+                    _data/data.yml
+                    ...done in 0.153585 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:14
+                    _data/data.yml
+                    ...done in 0.155654 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:14
+                    _data/data.yml
+                    ...done in 0.152042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:17
+                    _data/data.yml
+                    ...done in 0.157388 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:17
+                    _data/data.yml
+                    ...done in 0.157226 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:24
+                    _data/data.yml
+                    ...done in 0.156148 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:25
+                    _data/data.yml
+                    ...done in 0.156009 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:33
+                    _data/data.yml
+                    ...done in 0.16354 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:33
+                    _data/data.yml
+                    ...done in 0.165163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:50
+                    _data/data.yml
+                    ...done in 0.149695 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:51
+                    _data/data.yml
+                    ...done in 0.168183 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:12:58
+                    _data/data.yml
+                    ...done in 0.177691 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:02
+                    _data/data.yml
+                    ...done in 0.15619 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:02
+                    _data/data.yml
+                    ...done in 0.154217 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:07
+                    _data/data.yml
+                    ...done in 0.166939 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:08
+                    _data/data.yml
+                    ...done in 0.162107 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:09
+                    _data/data.yml
+                    ...done in 0.166505 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:48
+                    _data/data.yml
+                    ...done in 0.15924 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:54
+                    _data/data.yml
+                    ...done in 0.150812 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:13:55
+                    _data/data.yml
+                    ...done in 0.157855 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:02
+                    _data/data.yml
+                    ...done in 0.162192 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:03
+                    _data/data.yml
+                    ...done in 0.163526 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:07
+                    _data/data.yml
+                    ...done in 0.169017 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:09
+                    _data/data.yml
+                    ...done in 0.155989 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:09
+                    _data/data.yml
+                    ...done in 0.175841 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:14:09
+                    _data/data.yml
+                    ...done in 0.171433 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:12
+                    _includes/skills.html
+                    ...done in 0.157381 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:13
+                    _sass/_base.scss
+                    ...done in 0.174737 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:17
+                    _sass/_base.scss
+                    ...done in 0.180387 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:17
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.150034 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:18
+                    _sass/_base.scss
+                    ...done in 0.172651 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:18
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.168582 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:15:18
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.14627 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:24
+                    _sass/_base.scss
+                    ...done in 0.166222 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:25
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.167418 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:27
+                    _sass/_base.scss
+                    ...done in 0.166805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:27
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.168786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:29
+                    _sass/_base.scss
+                    ...done in 0.170749 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:32
+                    _sass/_base.scss
+                    ...done in 0.175494 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:33
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.162989 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:33
+                    _sass/_base.scss
+                    ...done in 0.155786 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:57
+                    _sass/_base.scss
+                    ...done in 0.195423 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:15:58
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.179603 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:03
+                    _sass/_base.scss
+                    ...done in 0.172347 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:03
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.188304 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:16:03
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.143042 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:04
+                    _sass/_base.scss
+                    ...done in 0.164253 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:04
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.15701 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:05
+                    _sass/_base.scss
+                    ...done in 0.155058 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:10
+                    _sass/_base.scss
+                    ...done in 0.187925 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:10
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.154858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:11
+                    _sass/_base.scss
+                    ...done in 0.143438 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:17
+                    _sass/_base.scss
+                    ...done in 0.168953 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:17
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.151321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:16:18
+                    _sass/_base.scss
+                    ...done in 0.184123 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-06-01 17:16:18
+                    _sass/_base.scss
+                    .sass-cache/cf5317a4a63cc3bda1ba6a3129e4a5f306bb3771/_base.scssc
+                    ...done in 0.156113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:17
+                    jekyll.log
+[33m             Error: No such file or directory @ apply2files - /Users/alzar/task/sources/personal/resume/_site/jekyll.log[0m
+[33m             Error: Run jekyll build --trace for more information.[0m
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:18
+                    jekyll.log
+                    ...done in 0.370565 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:18
+                    jekyll.log
+                    ...done in 0.364084 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:19
+                    jekyll.log
+                    ...done in 0.349063 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:20
+                    jekyll.log
+                    ...done in 0.410958 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:21
+                    jekyll.log
+                    ...done in 0.335044 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:21
+                    jekyll.log
+                    ...done in 0.336215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:22
+                    jekyll.log
+                    ...done in 0.353433 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-01 17:17:23
+                    jekyll.log
+                    ...done in 0.34029 seconds.
+                    
